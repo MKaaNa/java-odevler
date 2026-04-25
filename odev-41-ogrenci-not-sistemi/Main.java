@@ -112,7 +112,7 @@ public class Main {
         mat.addTeacher(t1);
         fizik.addTeacher(t2);
         kimya.addTeacher(t3);
-        // set oral notes and their weight (example 20%)
+
         mat.setOral(80, 0.2);
         fizik.setOral(90, 0.2);
         kimya.setOral(85, 0.2);
